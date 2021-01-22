@@ -1,1 +1,3 @@
-# client
+# Africa Knowledge Platform
+The Africa Knowledge Platform is a gateway to data and information on Africa's social, economic, territorial and environmental development, developed and hosted by the Joint Research Centre of the European Commission.
+Featuring data, methods and models developed in-house and with African partners, this platform supports the European policy objective of building a comprehensive strategy for Africa, under the umbrella of the European Commission priority of building "A stronger Europe in the world" (year 2019-2024). Using the platform, you can search data and maps by theme, by location or by Sustainable Development Goals. As well as country and regional profiles, you can deep-dive into specific topics, and explore the range of JRC's scientific and technical partnerships and projects across Africa.
